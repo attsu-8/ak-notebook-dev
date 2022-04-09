@@ -1,2 +1,3 @@
 backend/backend_app_server/*
 frontend/frontend_app_server/*
+.env
